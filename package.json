@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/Drive-O/typewriter#readme",
   "devDependencies": {
+    "autoprefixer": "^6.6.1",
     "gulp": "^3.9.1",
-    "gulp-watch": "^4.3.11"
+    "gulp-postcss": "^6.3.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-import": "^9.1.0",
+    "postcss-simple-vars": "^3.0.0"
   },
   "dependencies": {
     "normalize.css": "^5.0.0"
